@@ -1,0 +1,6 @@
+secrets.auto.tfvars
+.terraform/
+secrets.tfvars.yml
+terraform.tfstate
+*.tfstate.backup
+*.auto.tfvars
